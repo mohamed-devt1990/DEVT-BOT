@@ -236,7 +236,7 @@ $ sudo cp etc/telegram.conf /etc/init/
 $ sudo start telegram # To start it
 $ sudo stop telegram # To stop it
 ```
-`contact DEV~MDEVT in telegram` [click here](telegram.me/MDev_CLI)
+`contact DEV~MDEVT in telegram` [click here](http://telegram.me/MDev_CLI)
 -------------------------------------
 
 
